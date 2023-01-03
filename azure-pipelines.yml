@@ -21,7 +21,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 - script: |
-    python3 galayx.py
+    python3 galaxy.py
     
   displayName: 'Install dependencies'
 
